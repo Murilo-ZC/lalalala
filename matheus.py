@@ -1,7 +1,2 @@
-import sys
-def main():
-    print("Minha Funcao")
-    print(f"Parametros: {sys.argv}")
-
-if __name__=="__main__":
-    main()
+def bomdia(nome:str):
+    print(f"Bom dia {nome}")
